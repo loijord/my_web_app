@@ -1,0 +1,1 @@
+web: gunicorn sidebar_origin:server

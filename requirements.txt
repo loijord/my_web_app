@@ -1,0 +1,7 @@
+bottle
+dash_bootstrap_components
+dash
+pandas
+geopandas
+shapely
+gunicorn
